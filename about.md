@@ -4,4 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Front-End: JavaScript with vue.js & Jquery
+Back-End: Spring DataBase with MySQL,SQL-Server,Oracle
+Code with Git
+I will do my best in the future.
